@@ -1,0 +1,5 @@
+psutil
+argparse
+rich
+threading
+logging
